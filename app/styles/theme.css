@@ -1,6 +1,6 @@
 :root {
   --oui-font-family: 'Roboto', sans-serif;
-  --oui-font-size-base: 12px;
+  --oui-font-size-base: 17px;
 
   /* colors */
   --oui-color-primary: 0 149 199;
@@ -87,14 +87,14 @@
   --oui-rounded-full: 9999px;
 
   /* spacing */
-  --oui-spacing-xs: 15;
-  --oui-spacing-sm: 15;
-  --oui-spacing-md: 20;
-  --oui-spacing-lg: 20;
-  --oui-spacing-xl: 25;
+  --oui-spacing-xs: 20rem;
+  --oui-spacing-sm: 20rem;
+  --oui-spacing-md: 20rem;
+  --oui-spacing-lg: 30rem;
+  --oui-spacing-xl: 30rem;
 }
 
 html, body {
   font-family: 'Roboto', sans-serif !important;
-  font-size: 12px !important;
+  font-size: 17px !important;
 }

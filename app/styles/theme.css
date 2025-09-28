@@ -1,6 +1,6 @@
 :root {
-  --oui-font-family: 'Fira Sans', sans-serif;
-  --oui-font-size-base: 18px;
+  --oui-font-family: 'Roboto', sans-serif;
+  --oui-font-size-base: 12.5px;
 
   /* colors */
   --oui-color-primary: 0 149 199;
@@ -95,6 +95,6 @@
 }
 
 html, body {
-  font-family: 'Fira Sans', sans-serif !important;
-  font-size: 18px !important;
+  font-family: 'Roboto', sans-serif !important;
+  font-size: 12.5px !important;
 }
